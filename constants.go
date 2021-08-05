@@ -1,4 +1,4 @@
-package contacts
+package gopeople
 
 const (
 	DepartmentEngineering = "Engineering"

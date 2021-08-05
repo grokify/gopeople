@@ -1,4 +1,4 @@
-package contacts
+package gopeople
 
 import (
 	"strings"

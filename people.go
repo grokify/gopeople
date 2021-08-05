@@ -1,4 +1,4 @@
-package contacts
+package gopeople
 
 import (
 	"github.com/grokify/simplego/type/stringsutil"
@@ -13,4 +13,3 @@ func (p People) OrganizationEmailsNice() []string {
 	}
 	return stringsutil.SliceCondenseSpace(emails, true, true)
 }
-
