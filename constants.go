@@ -4,8 +4,12 @@ const (
 	DepartmentEngineering = "Engineering"
 	DepartmentProduct     = "Product Management"
 
+	LevelCEO          = "CEO"
+	LevelCXO          = "CXO"
 	LevelSVP          = "SVP"
 	LevelVP           = "VP"
+	LevelAVP          = "AVP"
+	LevelHead         = "Head"
 	LevelSrDirector   = "Senior Director"
 	LevelDirector     = "Director"
 	LevelGroupManager = "Manager"
