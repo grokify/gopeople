@@ -55,12 +55,13 @@ func (n Name) TrimSpace() {
 }
 
 type Organization struct {
-	Name       string
-	Title      string
-	Area       string
-	Level      string
-	Department string
-	Email      string
+	Name        string
+	IsCofounder bool
+	Title       string
+	Area        string
+	Level       string
+	Department  string
+	Email       string
 }
 
 func (o Organization) Finalize() {
