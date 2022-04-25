@@ -47,7 +47,7 @@ type Name struct {
 	Pronoun string
 }
 
-func (n Name) TrimSpace() {
+func (n *Name) TrimSpace() {
 	n.First = strings.TrimSpace(n.First)
 	n.Middle = strings.TrimSpace(n.Middle)
 	n.Last = strings.TrimSpace(n.Last)
@@ -64,7 +64,7 @@ type Organization struct {
 	Email       string
 }
 
-func (o Organization) Finalize() {
+func (o *Organization) Finalize() {
 	o.Email = strings.ToLower(strings.TrimSpace(o.Email))
 }
 
