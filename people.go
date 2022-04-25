@@ -1,7 +1,7 @@
 package gopeople
 
 import (
-	"github.com/grokify/simplego/type/stringsutil"
+	"github.com/grokify/mogo/type/stringsutil"
 )
 
 type People []Person
