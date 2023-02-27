@@ -1,7 +1,7 @@
-github.com/grokify/mogo v0.47.0 h1:ccRNWzSx7taNYtZdnqi1sArLmgzXD96CNEYXq2lC3lk=
-github.com/grokify/mogo v0.47.0/go.mod h1:vvFTRKwQoOJdSwcloML+lHn4cAQ3xN8/iAXt4J7J7Gs=
+github.com/grokify/mogo v0.48.0 h1:UIqZP0BmejaI+HE2mkG7Go41DmcgBhkbeZcffbICB9c=
+github.com/grokify/mogo v0.48.0/go.mod h1:if065zyHzzrVbkdwCgBFRSGW43SoTaSOertfrfbLnvA=
 github.com/huandu/xstrings v1.4.0 h1:D17IlohoQq4UcpqD7fDk80P7l+lwAmlFaBHgOipl2FU=
 github.com/huandu/xstrings v1.4.0/go.mod h1:y5/lhBue+AyNmUVz9RLU9xbLR0o4KIIExikq4ovT0aE=
-golang.org/x/exp v0.0.0-20230213192124-5e25df0256eb h1:PaBZQdo+iSDyHT053FjUCgZQ/9uqVwPOcl7KSWhKn6w=
+golang.org/x/exp v0.0.0-20230224173230-c95f2b4c22f2 h1:Jvc7gsqn21cJHCmAWx0LiimpP18LZmUxkT5Mp7EZ1mI=
 golang.org/x/text v0.7.0 h1:4BRB4x83lYWy72KwLD/qYDuTu7q9PjSagHvijDw7cLo=
 golang.org/x/text v0.7.0/go.mod h1:mrYo+phRRbMaCq/xk9113O4dZlRixOauAjOtrjsXDZ8=
