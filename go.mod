@@ -3,7 +3,7 @@ module github.com/grokify/gopeople
 go 1.18
 
 require (
-	github.com/grokify/mogo v0.53.0
+	github.com/grokify/mogo v0.54.1
 	github.com/huandu/xstrings v1.4.0
 )
 
