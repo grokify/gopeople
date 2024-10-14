@@ -5,7 +5,7 @@ go 1.22.0
 toolchain go1.22.2
 
 require (
-	github.com/grokify/mogo v0.64.12
+	github.com/grokify/mogo v0.65.0
 	github.com/huandu/xstrings v1.5.0
 )
 

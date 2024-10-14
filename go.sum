@@ -1,5 +1,5 @@
-github.com/grokify/mogo v0.64.12 h1:BNrZ1qBFuX4qu5722CW6qtqu/mrrsZ3bhKu/w1KowKg=
-github.com/grokify/mogo v0.64.12/go.mod h1:lDhfYIiOhJo7C2U3aL00PlUU9gLvmTONi4MdIWoGmGM=
+github.com/grokify/mogo v0.65.0 h1:pOnXe5HCy9ufzLObc2+KMvL3xwycScBAegn2QXvTmMA=
+github.com/grokify/mogo v0.65.0/go.mod h1:lDhfYIiOhJo7C2U3aL00PlUU9gLvmTONi4MdIWoGmGM=
 github.com/huandu/xstrings v1.5.0 h1:2ag3IFq9ZDANvthTwTiqSSZLjDc+BedvHPAp5tJy2TI=
 github.com/huandu/xstrings v1.5.0/go.mod h1:y5/lhBue+AyNmUVz9RLU9xbLR0o4KIIExikq4ovT0aE=
 golang.org/x/exp v0.0.0-20241004190924-225e2abe05e6 h1:1wqE9dj9NpSm04INVsJhhEUzhuDVjbcyKH91sVyPATw=
