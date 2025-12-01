@@ -1,13 +1,13 @@
 module github.com/grokify/gopeople
 
-go 1.23.2
+go 1.24.0
 
 require (
-	github.com/grokify/mogo v0.68.1
+	github.com/grokify/mogo v0.72.0
 	github.com/huandu/xstrings v1.5.0
 )
 
 require (
-	golang.org/x/exp v0.0.0-20250218142911-aa4b98e5adaa // indirect
-	golang.org/x/text v0.22.0 // indirect
+	golang.org/x/exp v0.0.0-20251125195548-87e1e737ad39 // indirect
+	golang.org/x/text v0.31.0 // indirect
 )
